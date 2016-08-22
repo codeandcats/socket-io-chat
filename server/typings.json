@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "express": "registry:npm/express#4.14.0+20160815112707"
+  },
+  "globalDependencies": {
+    "node": "registry:env/node#6.0.0+20160813135048",
+    "socket.io": "registry:dt/socket.io#1.4.4+20160317120654"
+  },
+  "resolution": "./typings/external"
+}
